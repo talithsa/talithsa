@@ -32,13 +32,13 @@
 
 ### 🧩 Tech I Use
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="24" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="24" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="24" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="24" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" style="margin: 0 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24" style="margin: 0 6px;" />
+  <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/24/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/24/000000/pandas.png" alt="Pandas"/>
+  <img src="https://images.seeklogo.com/logo-png/48/3/numpy-logo-png_seeklogo-485085.png" alt="NumPy"/>
+  <img src="https://img.icons8.com/ios-filled/24/000000/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/ios-filled/24/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/24/000000/google-logo.png" alt="Google Colab"/>
 </p>
 
 ### 📈 GitHub Stats
