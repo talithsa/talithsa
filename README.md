@@ -28,7 +28,7 @@
   <img src="https://img.icons8.com/ios-filled/24/notion.png" alt="Notion" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=talithsa&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=talithsa&theme=tokyonight" />
 </p>
