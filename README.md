@@ -29,8 +29,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talithsa&show_icons=true&theme=kawaii" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=talithsa&theme=kawaii" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talithsa&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=talithsa&theme=rose-pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talithsa&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 -----
