@@ -7,22 +7,6 @@
 → Tools beyond Flask for ETL pipelines and data integration<br/>
 → Future-focused tech like Generative AI and Agentic systems<br/>
 
-### Featured Projects 🔧
-📦 **Jukang ID**<br/>
-*Marketplace app for daily construction & repair work*  
-→ ML-based price estimator, review classifier, and skill matcher  
-→ Tools: Python, Scikit-learn, Flask, SQLite
-
-🗣️ **Simple Concatenative TTS System**<br/>
-*A simple TTS system that plays speech by stitching pre-recorded words*  
-→ Includes dataset prep, label generation, and audio playback via CLI  
-→ Built with Python, Librosa, Pydub, and FFmpeg  
-
-📄 **Resume Builder with NLP**<br/>
-*Flask-based resume creator with job title suggestions powered by NLP*  
-→ Built-in vectorizer and job classification model using joblib  
-→ Tools: Flask, Scikit-learn, Jinja2
-
 <p align="center">
   <!-- Languages & Libraries -->
   <img src="https://img.icons8.com/color/24/python.png" alt="Python" />
@@ -48,3 +32,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=talithsa&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=talithsa&theme=tokyonight" />
 </p>
+
+-----
+**Featured Projects 🔧**<br/>
+📦 **Jukang ID**<br/>
+*Marketplace app for daily construction & repair work*  
+→ ML-based price estimator, review classifier, and skill matcher  
+→ Tools: Python, Scikit-learn, Flask, SQLite
+
+🗣️ **Simple Concatenative TTS System**<br/>
+*A simple TTS system that plays speech by stitching pre-recorded words*  
+→ Includes dataset prep, label generation, and audio playback via CLI  
+→ Built with Python, Librosa, Pydub, and FFmpeg  
+
+📄 **Resume Builder with NLP**<br/>
+*Flask-based resume creator with job title suggestions powered by NLP*  
+→ Built-in vectorizer and job classification model using joblib  
+→ Tools: Flask, Scikit-learn, Jinja2
